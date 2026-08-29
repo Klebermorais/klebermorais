@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com Automação Industrial
 - 🌱 Estou cursando Engenharia Elétrica / Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Ele
 - - ### ⚙️ Automação Industrial
 **CLPs:** Siemens • Rockwell/Allen-Bradley • Schneider • Altus  **SCADA/HMI:** WinCC • Elipse E3 • AVEVA/Wonderware 
 **Programação:** Ladder • STL • SCL • Python • C#               **Redes:** PROFINET • PROFIBUS • Ethernet/IP • EtherCAT  
