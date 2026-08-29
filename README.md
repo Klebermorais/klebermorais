@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando Engenharia Elétrica
 - 📫 Contate-me no email: klebermorais_1@hotmail.com
 - 😄 Pronouns: Ele/Dele
-[[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=klebermorais)](https://github.com/stats-organization/github-stats-extended)
+
+GitHub stats](https://github-stats-extended.vercel.app/api?username=klebermorais)](https://github.com/stats-organization/github-stats-extended)
 - https://github-readme-stats.vercel.app/api?username=klebermorais&theme=radical
 + https://github-stats-extended.vercel.app/api?username=klebermorais&theme=radical
 <div style="display: inline_block"><br>
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/klebermorais-automacao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
