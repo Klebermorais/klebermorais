@@ -1,7 +1,7 @@
 ## Olá sou Kleber Morais 👋
 
 - 🔭 Atualmente trabalho com Automação Industrial
-- 🌱 Estou cursando Engenharia Elétrica / Desenvolvimento de Sistemas
+- 🌱 Cursando Engenharia Elétrica / Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele
 - - ### ⚙️ Automação Industrial
 **CLPs:** Siemens • Rockwell/Allen-Bradley • Schneider • Altus  **SCADA/HMI:** WinCC • Elipse E3 • AVEVA/Wonderware 
