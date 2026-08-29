@@ -1,4 +1,4 @@
-## Olá eu sou Kleber Morais 👋
+## Olá sou Kleber Morais 👋
 
 <!--
 **Klebermorais/klebermorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
