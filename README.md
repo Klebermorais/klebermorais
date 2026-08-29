@@ -1,34 +1,33 @@
 ## Olá sou Kleber Morais 👋
 
-<!--
-**Klebermorais/klebermorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho como Automação Industrial
-- 🌱 Estou estudando Engenharia Elétrica
-- 📫 Contate-me no email: klebermorais_1@hotmail.com
+- 🔭 Atualmente trabalho com Automação Industrial
+- 🌱 Estou cursando Engenharia Elétrica / Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
+- - ### ⚙️ Automação Industrial
+**CLPs:** Siemens • Rockwell/Allen-Bradley • Schneider • Altus  **SCADA/HMI:** WinCC • Elipse E3 • AVEVA/Wonderware 
+**Programação:** Ladder • STL • SCL • Python • C#               **Redes:** PROFINET • PROFIBUS • Ethernet/IP • EtherCAT  
+**Inversores:** Siemens • ABB • WEG
 
-GitHub stats](https://github-stats-extended.vercel.app/api?username=klebermorais)](https://github.com/stats-organization/github-stats-extended)
-- https://github-readme-stats.vercel.app/api?username=klebermorais&theme=radical
-+ https://github-stats-extended.vercel.app/api?username=klebermorais&theme=radical
-<div style="display: inline_block"><br>
-  <img align="center" alt="klebermorais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="klebermorais-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="klebermorais-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="klebermorais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="klebermorais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=klebermorais&show_icons=true&theme=dracula)
+
+<div align="center">
+
+<a href="https://github.com/klebermorais"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klebermorais&show_icons=true&theme=dracula"/> </a>
+
+<a href="https://github.com/klebermorais"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebermorais&layout=compact&theme=dracula"/> </a>
+
+</div>
+ 
+<div 
+  style="display: inline_block"><br>
   <img align="center" alt="klebermorais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="klebermorais-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
- 
-<div> 
 
+<div> 
   <a href="https://www.instagram.com/kleber.jmorais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:klebermorais_1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kleberjose2025@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/klebermorais-automacao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
